@@ -1,0 +1,14 @@
+layout_spectrum: 0.44184351642616093
+typography_spectrum: 0.2753042341209948
+color:
+  brandStrength: 0.7638323304709047
+  lightness: 0.8308069969061762
+  saturation: 0.44917945889756083
+  rhythmicContrast: 0.817290264647454
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Ghian
